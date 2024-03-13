@@ -12,5 +12,5 @@ Running times for the codes to execute (in seconds):
 |mxv_sequential |0|0|0|0.001|0.006|0.017|0.082|0.287| 1.173|21.053|
 |mxv_openmp |0.004|0.004|0.007|0.016|0.003|0.006|0.035|0.094|0.372|13.735|
 |mxv_mpi |  |  |  |  |  |  |  |  |  |  |
-|mxv_openmp_tiling |  |  |  |  |  |  |  |  |  |  |
+|mxv_openmp_tiling |0.001|0.001|0.004|0.009|  |  |  |  |  |1.488|
 |mxv_mpi_tiling |  |  |  |  |  |  |  |  |  |  |

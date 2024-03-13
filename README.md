@@ -3,5 +3,4 @@
 |Student ID| Student Name|
 |:---:|:---:|
 |21K-3103| Fahad Salman Amim|
-|:---:|:---:|
 |21K-4704| Qazi Sarim|
